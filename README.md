@@ -241,7 +241,7 @@ trabajar sobre información conectada y disponible en tiempo real.
 </div>
 
 ---
-
+```text
 🚀 XioM Pyme — Ecosistema Empresarial
 │
 ├── 🛒 Ventas & Punto de Venta
