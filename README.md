@@ -182,3 +182,68 @@ XioM Pyme
     ├── 👥 Biz CRM
     ├── 📱 XioM APP
     └── ⚙️ APIs & Automatización
+
+<h2>📊 XioM Pyme en cifras</h2>
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+  <h2>15+</h2>
+  <strong>Años de experiencia</strong>
+  <br>
+  <sub>Desarrollando soluciones empresariales</sub>
+</td>
+
+<td align="center" width="25%">
+  <h2>200+</h2>
+  <strong>Clientes</strong>
+  <br>
+  <sub>Empresas que utilizan nuestras soluciones</sub>
+</td>
+
+<td align="center" width="25%">
+  <h2>360°</h2>
+  <strong>Ecosistema empresarial</strong>
+  <br>
+  <sub>Ventas · Inventarios · CRM · Apps</sub>
+</td>
+
+<td align="center" width="25%">
+  <h2>🇨🇴</h2>
+  <strong>Tecnología colombiana</strong>
+  <br>
+  <sub>Software desarrollado para empresas</sub>
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+  <h3>🤝 Soporte personalizado</h3>
+  <p>Acompañamiento directo a nuestros clientes.</p>
+</td>
+
+<td align="center" width="33%">
+  <h3>⚡ Automatización</h3>
+  <p>Procesos conectados mediante APIs e integraciones.</p>
+</td>
+
+<td align="center" width="33%">
+  <h3>☁️ Evolución constante</h3>
+  <p>Web, nube, aplicaciones móviles y nuevas tecnologías.</p>
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
