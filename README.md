@@ -1,8 +1,7 @@
 <div align="center">
 
 <img src="xiompyme-192.png" width="150" alt="XioM Pyme">
-
-# XioM Pyme
+#XioM Pyme
 
 ### Tecnología que impulsa empresas
 
@@ -95,25 +94,90 @@ diseñadas para crecer junto con nuestros clientes.
 
 ---
 
-## 🧩 Ecosistema XioM
+<h2>🧩 Ecosistema XioM</h2>
+
+<p>
+XioM Pyme integra diferentes soluciones empresariales dentro de un mismo
+ecosistema tecnológico, conectando la operación comercial, administrativa
+y móvil de nuestros clientes.
+</p>
+
+<div align="center">
+
+<h3>🚀 XioM Pyme</h3>
+
+<p>
+  <strong>Plataforma empresarial central</strong>
+</p>
+
+<br>
+
+<table>
+<tr>
+<td align="center" width="33%">
+  <h3>🛒 POS</h3>
+  <p>Punto de venta y<br>control comercial</p>
+</td>
+
+<td align="center" width="33%">
+  <h3>🧾 Facturación Electrónica</h3>
+  <p>Documentos electrónicos<br>y procesos tributarios</p>
+</td>
+
+<td align="center" width="33%">
+  <h3>📦 Inventarios</h3>
+  <p>Existencias, bodegas<br>y trazabilidad</p>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="33%">
+  <h3>👥 Biz CRM</h3>
+  <p>Clientes, servicios<br>y seguimiento comercial</p>
+</td>
+
+<td align="center" width="33%">
+  <h3>📱 XioM APP</h3>
+  <p>Información empresarial<br>en tiempo real</p>
+</td>
+
+<td align="center" width="33%">
+  <h3>⚙️ Automatización</h3>
+  <p>APIs, integraciones<br>y procesos automáticos</p>
+</td>
+</tr>
+</table>
+
+<br>
+
+<p>
+  <img src="https://img.shields.io/badge/POS-Sistema_de_Ventas-0A66C2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Facturación-Electrónica-00AEEF?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Inventarios-Control-28A745?style=for-the-badge">
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Biz_CRM-Gestión_de_Clientes-7952B3?style=for-the-badge">
+  <img src="https://img.shields.io/badge/XioM_APP-Mobile-02569B?style=for-the-badge">
+  <img src="https://img.shields.io/badge/APIs-Automatización-EA4B71?style=for-the-badge">
+</p>
+
+</div>
+
+---
+
+### 🔗 Un ecosistema conectado
+
+**XioM Pyme** funciona como núcleo de nuestras soluciones, permitiendo
+integrar información comercial, inventarios, clientes, documentos
+electrónicos, aplicaciones móviles y procesos automatizados.
 
 ```text
-                         ┌─────────────────────┐
-                         │      XioM Pyme      │
-                         │ Plataforma Central  │
-                         └──────────┬──────────┘
-                                    │
-              ┌─────────────────────┼─────────────────────┐
-              │                     │                     │
-              ▼                     ▼                     ▼
-        ┌───────────┐        ┌─────────────┐       ┌───────────┐
-        │    POS    │        │ Facturación │       │ Inventario│
-        └───────────┘        │ Electrónica │       └───────────┘
-                             └─────────────┘
-              │                     │                     │
-              └─────────────────────┼─────────────────────┘
-                                    │
-                 ┌──────────────────┼──────────────────┐
-                 ▼                  ▼                  ▼
-             Biz CRM            XioM APP         Automatización
-                                                   & APIs
+XioM Pyme
+    │
+    ├── 🛒 POS
+    ├── 🧾 Facturación Electrónica
+    ├── 📦 Inventarios
+    ├── 👥 Biz CRM
+    ├── 📱 XioM APP
+    └── ⚙️ APIs & Automatización
