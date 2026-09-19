@@ -173,16 +173,6 @@ y móvil de nuestros clientes.
 integrar información comercial, inventarios, clientes, documentos
 electrónicos, aplicaciones móviles y procesos automatizados.
 
-```text
-XioM Pyme
-    │
-    ├── 🛒 POS
-    ├── 🧾 Facturación Electrónica
-    ├── 📦 Inventarios
-    ├── 👥 Biz CRM
-    ├── 📱 XioM APP
-    └── ⚙️ APIs & Automatización
-
 <h2>📊 XioM Pyme en cifras</h2>
 
 <div align="center">
@@ -247,3 +237,13 @@ XioM Pyme
 </div>
 
 ---
+
+```text
+XioM Pyme
+    │
+    ├── 🛒 POS
+    ├── 🧾 Facturación Electrónica
+    ├── 📦 Inventarios
+    ├── 👥 Biz CRM
+    ├── 📱 XioM APP
+    └── ⚙️ APIs & Automatización
