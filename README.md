@@ -167,11 +167,15 @@ y móvil de nuestros clientes.
 
 ---
 
-### 🔗 Un ecosistema conectado
+## 🌐 Ecosistema tecnológico XioM Pyme
 
-**XioM Pyme** funciona como núcleo de nuestras soluciones, permitiendo
-integrar información comercial, inventarios, clientes, documentos
-electrónicos, aplicaciones móviles y procesos automatizados.
+XioM Pyme ha evolucionado de un sistema administrativo a un **ecosistema
+tecnológico empresarial**, integrando ventas, facturación electrónica,
+inventarios, CRM, aplicaciones móviles, analítica, automatización,
+comunicaciones e integraciones.
+
+Nuestro objetivo es que las diferentes áreas de una empresa puedan
+trabajar sobre información conectada y disponible en tiempo real.
 
 <h2>📊 XioM Pyme en cifras</h2>
 
@@ -188,7 +192,7 @@ electrónicos, aplicaciones móviles y procesos automatizados.
 </td>
 
 <td align="center" width="25%">
-  <h2>200+</h2>
+  <h2>2.000+</h2>
   <strong>Clientes</strong>
   <br>
   <sub>Empresas que utilizan nuestras soluciones</sub>
@@ -238,12 +242,85 @@ electrónicos, aplicaciones móviles y procesos automatizados.
 
 ---
 
-```text
-XioM Pyme
-    │
-    ├── 🛒 POS
-    ├── 🧾 Facturación Electrónica
-    ├── 📦 Inventarios
-    ├── 👥 Biz CRM
-    ├── 📱 XioM APP
-    └── ⚙️ APIs & Automatización
+🚀 XioM Pyme — Ecosistema Empresarial
+│
+├── 🛒 Ventas & Punto de Venta
+│   ├── POS
+│   ├── Facturación electrónica
+│   ├── Cotizaciones
+│   ├── Remisiones
+│   ├── Formas de pago
+│   └── Control de caja
+│
+├── 📦 Inventarios
+│   ├── Productos y servicios
+│   ├── Entradas y salidas
+│   ├── Múltiples bodegas
+│   ├── Tallas, colores y atributos
+│   ├── Control de existencias
+│   └── Trazabilidad de movimientos
+│
+├── 👥 Biz CRM
+│   ├── Gestión de clientes
+│   ├── Seguimiento comercial
+│   ├── Agenda empresarial
+│   ├── Servicios mensuales
+│   ├── Pólizas de soporte
+│   ├── Certificados
+│   └── Notificaciones automáticas
+│
+├── 📱 XioM APP
+│   ├── Ventas en tiempo real
+│   ├── Indicadores comerciales
+│   ├── Top de productos
+│   ├── Formas de pago
+│   ├── Consulta de documentos
+│   └── Dashboard móvil
+│
+├── 📊 Inteligencia Empresarial
+│   ├── Dashboard gerencial
+│   ├── Informes de ventas
+│   ├── Análisis por formas de pago
+│   ├── Productos más vendidos
+│   ├── Indicadores de gestión
+│   └── Información en tiempo real
+│
+├── 🤖 Automatización
+│   ├── n8n
+│   ├── Flujos automáticos
+│   ├── Agentes inteligentes
+│   ├── Alertas y recordatorios
+│   ├── Webhooks
+│   └── Procesamiento de eventos
+│
+├── 💬 Comunicaciones
+│   ├── WhatsApp
+│   ├── Notificaciones
+│   ├── Mensajes automáticos
+│   ├── Correo electrónico
+│   └── Atención al cliente
+│
+├── 🔌 APIs & Integraciones
+│   ├── API REST
+│   ├── Servicios externos
+│   ├── Pasarelas de pago
+│   ├── Aplicaciones móviles
+│   ├── Webhooks
+│   └── Integraciones empresariales
+│
+├── ☁️ Plataforma Cloud
+│   ├── Aplicaciones web
+│   ├── SaaS
+│   ├── Acceso remoto
+│   ├── Seguridad
+│   └── Servicios empresariales
+│
+└── 🏪 Soluciones por sector
+    ├── 🛒 Minimarkets
+    ├── 🍽️ Restaurantes
+    ├── 🔧 Ferreterías
+    ├── 🥩 Carnicerías
+    ├── 💊 Droguerías
+    ├── 🏨 Hoteles
+    ├── 🏍️ Repuestos para motos
+    └── 📱 Tecnología y celulares
