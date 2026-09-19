@@ -1,6 +1,7 @@
 <div align="center">
 
 <img src="xiompyme-192.png" width="150" alt="XioM Pyme">
+
 # XioM Pyme
 
 ### Tecnología que impulsa empresas
